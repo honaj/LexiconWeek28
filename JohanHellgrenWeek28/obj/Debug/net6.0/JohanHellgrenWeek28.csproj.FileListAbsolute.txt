@@ -1,0 +1,15 @@
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\bin\Debug\net6.0\JohanHellgrenWeek28.exe
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\bin\Debug\net6.0\JohanHellgrenWeek28.deps.json
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\bin\Debug\net6.0\JohanHellgrenWeek28.runtimeconfig.json
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\bin\Debug\net6.0\JohanHellgrenWeek28.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\bin\Debug\net6.0\JohanHellgrenWeek28.pdb
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\JohanHellgrenWeek28.csproj.AssemblyReference.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\JohanHellgrenWeek28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\JohanHellgrenWeek28.AssemblyInfoInputs.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\JohanHellgrenWeek28.AssemblyInfo.cs
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\JohanHellgrenWeek28.csproj.CoreCompileInputs.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\JohanHellgrenWeek28.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\refint\JohanHellgrenWeek28.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\JohanHellgrenWeek28.pdb
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\JohanHellgrenWeek28.genruntimeconfig.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\JohanHellgrenWeek28\JohanHellgrenWeek28\obj\Debug\net6.0\ref\JohanHellgrenWeek28.dll
